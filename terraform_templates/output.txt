@@ -1,0 +1,26 @@
+Hello There, Congrats!
+The ELK was deployed to your cluster.
+
+######################## Elk Structure you selected #####################################
+ 
+${elk_structure}
+
+########################################################################################
+
+######################## Endpoint of the Kibana ########################################
+
+${kibana_endpoint}
+
+########################################################################################
+
+######################## Endpoint of the elastic search ################################
+
+${elastic_search_endpoint}
+
+########################################################################################
+
+If you happen to find some issues with this source code please submit the error 
+https://github.com/fuchicorp/elk-stack/issues
+
+Developed for FuchiCorp LLC  
+
